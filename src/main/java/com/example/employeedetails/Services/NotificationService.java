@@ -31,8 +31,8 @@ public class NotificationService {
     public void sendMail(){
         String to="mujiburrahmanar97@gmail.com";
         String username="mujiburinfo13@gmail.com";
-        String from="mujiburinfo13@gmail.cok";
-        String password="9965899071";
+        String from="mu**@gmail.com";
+        String password="**************";
         String host = "smtp.gmail.com";
         String port ="587";
 
